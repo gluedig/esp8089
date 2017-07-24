@@ -14,6 +14,7 @@
 #include "esp_debug.h"
 #include "esp_version.h"
 #include "esp_file.h"
+#include <linux/module.h>
 
 int esp_common_init(void)
 {
